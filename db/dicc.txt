@@ -1818,8 +1818,11 @@ aphtpasswd.html
 api
 api.log
 api/
+api/v1
+api/v2
 api/error_log
 api/swagger.yml
+api/swagger-ui.html
 api-doc
 api-docs
 apibuild.pyc
@@ -1868,6 +1871,9 @@ app/testing
 app/unschedule.bat
 app/vendor
 app/vendor-src
+application.wadl
+application.wadl?detail=false
+application.wadl?detail=true
 app_admin
 App_Code
 App_Data
@@ -3110,6 +3116,18 @@ filezilla.xml
 FireFox_Reco
 FirmConnect.%EXT%
 fkadmin
+flag
+flag.php
+flag.phtml
+flag.phps
+flag.PHP
+flag.php~
+flag.php.bak
+flag.txt
+flag.html
+flag.css
+flag.test
+flag.bak
 flags
 flash
 flash/ZeroClipboard.swf
@@ -3213,7 +3231,7 @@ graphics
 graphql
 graphql/console/
 graphql.php
-graphiql/
+graphiql
 graphiql.php
 graphql.js
 grappelli/
@@ -5405,6 +5423,9 @@ svn.revision
 SVN/
 svn/
 swagger-ui.html
+swagger/swagger-ui.html
+swagger/index.html
+swagger/index.html?url=/api-docs/openapi.yaml
 swf
 swfobject.js
 swfupload
@@ -5798,6 +5819,7 @@ utils
 uvpanel/
 v
 v1
+v1.x/swagger-ui.html
 v1/test/js/console.html
 v1/test/js/console_ajax.js
 v1/public/yql
