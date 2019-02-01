@@ -8,6 +8,7 @@
 %ff/
 %20/
 ..;/
+..;/admin/
 ..;/manager/html
 ..;/secure/ManageFilters.jspa
 ..;/railo-context/admin/web.cfm
